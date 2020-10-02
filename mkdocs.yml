@@ -1,0 +1,5 @@
+theme:
+  name: material
+  logo: assets/omnicoach.png
+  favicon: assets/favicon.png
+site_name: Omnicoach Documentation
