@@ -3,3 +3,5 @@ theme:
   logo: assets/omnicoach.png
   favicon: assets/favicon.png
 site_name: Omnicoach Documentation
+extra_css:
+  - stylesheets/extra.css
