@@ -5,55 +5,128 @@
 <br /><br />
 
 CONNECTING BRANDS WITH GAMERS THROUGH GAMES<br /><br />  
-Omnicoach enables esport businesses to set-up their own match analysis services for fans and create custom quests and offer discounts for their products.<br />
+Omnicoach is a white-label, plug-and-play software service that authentically connects brands with gamers to raise brand awareness and boost audience monetisation through education and fun elements.<br />
 </p>
-<p align="right">Latest Update: 2020.10.04.</p>
+<p align="right">Latest Update: 2022.10.17.</p>
 <hr />
 
 ## Features
-Omnicoach gives you the following:
+### Service Implementation
 
+**Setting up the Omnicoach Services **
+    
+Setting up the Customer Subdomain following the Customer’s instructions;
+
+**Custom token-based user authentication or integration with Partner’s OAuth solution **
+
+**Customise the service design using the Omnicoach Design System**
+
+**Superuser access to the admin panel**
 ### Features for admins
+**Creating your own gameplay analysis service**
 
-#### Creating your own gameplay analysis service
-Omnicoach is able to integrate its service to any of your provided domain. 
+Omnicoach can integrate its service into any of your provided domains. 
 
-#### Customize the service outlook
-You can identify different design elements of the service such as primary and secondary colors, fonts, etc. and also place your logo on the site.
 
-##### Create custom quests
-By identifying key moments in the game You can create custom quests in the system. Quest creation includes:
+**Customize the service outlook**
+
+You can identify different design elements of the service, such as primary and secondary colours, fonts, etc. and also place your logo on the site.
+
+**Create custom quests**
+
+You can create custom quests in the system by identifying key moments in the game.
+
+Quest creation includes:
 
 - Identifying the trigger event 
 - Activation and expiry date
 - Quest difficulty
 - Other quests details
+- Custom quest image and quest card design
 
-#### Reward setting
-For completing a quest special rewards can be determined linked to quests individually.
+Types of available quests:
 
+- Daily quest
+- Community quest
+- Personal quest
 
-### Features for Your Fans
-#### Video Upload
-Users can upload their own recorded gameplay videos in 720p+
+**Reward setting**
 
+For completing a quest, special rewards can be determined and linked to quests individually.
 
-Or insert a youtube link where the video has a quality of 720p+
+**Training Exercises**
 
-#### Search
+You can create training exercises in the system that are triggered by pre-set events or event context
+
+**Guides**
+
+You can create guides in the system that are triggered by pre-set events or event context
+
+**View User’s uploaded matches**
+**View and edit the User’s metadata**
+
+### Features for End-Users
+
+**Video Upload**
+
+Users can upload their own recorded gameplay videos in 720p+ and 1080p
+
+**Search**
+
 Search for specific gameplays based on upload time
 
-##### Complete quests
-Users can complete the active quests while also having the ability to review the completed quests.
+**Complete quests**
 
-##### Automated Match Analysis
+Users can complete the active quests (daily-, community-, personal quests) while also reviewing the completed quests.
+
+**Unlocked exercises and guides for all supported games**
+
+**Automated Match Analysis**
+
 Users can do the following on the match analysis page:
 
 - Check meaningful statistics about the game
-- Search for specific moments in the gameplay by using pre-set search filters
-- Review and self analyze his/her own gameplay
+- Search for specific moments (datapoints) in the gameplay by using pre-set search filters
+- Review and self-analyse his/her own gameplay
+
+**Video storage and playback for match analysis**
+
+**Create highlight videos from match analysis**
+
+**Access to a downloadable video recording software**
+
 
 ## Covered Games
-We cover the following games:
+
+**We support the following game titles:**
 
 - League of Legends
+- Valorant
+- Apex Legends
+
+## Technical Support
+
+
+**Support service implementation**
+
+
+**Provide support in case of any technical issues on a best-effort basis**
+
+
+**Based on the Customer’s request, set up additional Omnicoach Services on custom domains**
+
+## Access to API
+
+**Access to user data, user match data through a REST API**
+
+**Access to rewards, quests, community quests, exercises and guides through a REST API**
+
+**Potential integration with user lifecycle event webhooks**
+
+## Product & Marketing Support
+
+**Regular feedback meetings**
+
+**Access to product demos and support materials **
+
+**Access materials about potential marketing campaigns and use cases**
