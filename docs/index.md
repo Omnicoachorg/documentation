@@ -95,6 +95,9 @@ Users can do the following on the match analysis page:
 
 **Access to a downloadable video recording software**
 
+**Access to Explore matches menu where users can browse among publically available gameplay videos and their analysis**
+
+**Share the match analysis page publically, in private or unlisted.**
 
 ## Covered Games
 
